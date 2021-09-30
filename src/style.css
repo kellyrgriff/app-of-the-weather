@@ -42,6 +42,7 @@ li {
   margin-right: 5px;
   height: 64px;
   width: 64px;
+  float: left;
 }
 
 .weather-temperature strong {
